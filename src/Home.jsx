@@ -6,7 +6,7 @@ function Home(){
         <section className='cabeceraHome'>
         <div className='textoHome'>
             
-        <h1>YOGA FOR <br /> THE BOLD</h1>
+        <h1>YOGA <br /> THE BOLD</h1>
         <p>
         We are a friendly based yoga and meditation studio. <br />
         We believe that by taking time to focus on your <br />
